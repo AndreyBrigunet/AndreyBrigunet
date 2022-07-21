@@ -2,8 +2,11 @@
 
 ### <div align="center">I'm Andrei, a backend developer 👨‍💻</div>  
   
+
 - 🔭 I’m currently working on [Easy4Live](https://easy4live.com/)
+
 - 🔭 I’m currently working on [Promovgram](https://promovgram.com/)
+
 
 <br/>  
 
