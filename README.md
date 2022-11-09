@@ -1,4 +1,5 @@
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'>Happy to meet you! :wave: &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=idammi.idammi)</h1>
+
 
 ### <div align="center">I'm Andrei, a backend developer 👨‍💻</div>  
   
