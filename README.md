@@ -1,12 +1,6 @@
 <h1 align='center'>Happy to meet you! :wave: <img src="https://visitor-badge.glitch.me/badge?page_id=AndreyBrigunet.AndreyBrigunet" alt=website style="margin-bottom: 5px;" /></h1>
 
 ### <div align="center">I'm Andrei, a backend developer 👨‍💻</div>  
-  
-
-- 🔭 I’m currently working on [Easy4Live](https://easy4live.com/)
-
-- 🔭 I’m currently working on [Promovgram](https://promovgram.com/)
-
 
 <br/>  
 
